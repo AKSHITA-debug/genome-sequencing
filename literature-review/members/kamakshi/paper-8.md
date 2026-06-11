@@ -1,7 +1,7 @@
 # 📄 Paper 8: NanoCaller: Accurate Detection of SNPs and Indels in Difficult-to-Map Regions from Long-Read Sequencing by Haplotype-Aware Deep Neural Networks
 *   **Journal / Conference**: Genome Biology (2021)
 *   **DOI**: `10.1186/s13059-020-02249-1`
-
+    **Link**: [Nature Biotechnology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02472-2)
 ---
 
 ## 🔬 Literature Review Table

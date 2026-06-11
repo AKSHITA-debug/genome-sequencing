@@ -1,7 +1,7 @@
 # 📄 Paper 6: Artificial Intelligence Enables Comprehensive Genome Interpretation and Nomination of Candidate Diagnoses for Rare Genetic Diseases
 *   **Journal / Conference**: Genome Medicine (2021)
 *   **DOI**: `10.1186/s13073-021-00965-0`
-
+    **Link**: [Nature Biotechnology]( https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00965-0)
 ---
 
 ## 🔬 Literature Review Table

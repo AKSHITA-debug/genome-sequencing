@@ -1,7 +1,7 @@
 # 📄 Paper 9: MVP Predicts the Pathogenicity of Missense Variants by Deep Learning
 *   **Journal / Conference**: Nature Communications (2021)
 *   **DOI**: `10.1038/s41467-020-20847-0`
-
+    **Link**: [Nature Biotechnology]( https://www.nature.com/articles/s41467-020-20847-0)
 ---
 
 ## 🔬 Literature Review Table
