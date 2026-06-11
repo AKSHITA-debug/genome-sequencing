@@ -40,7 +40,7 @@ Our multi-disciplinary team brings together expertise in deep learning, computat
 | **Hitanshi Bedi** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/hitanshi-bedi/) | [`@hitanshi-bedi`](https://github.com/hitanshi-bedi) |
 | **Dhriti Goswami** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/dhriti-goswami/) | [`@dhriti-goswami`](https://github.com/dhriti-goswami) |
 | **Arav Jain** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/arav-jain/) | [`@arav-jain`](https://github.com/arav-jain) |
-| **Kamakshi** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/kamakshi/) | [`@kamakshi`](https://github.com/kamakshi) |
+| **Kamakshi** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/kamakshi/) | [`@kamakshi`](https://github.com/kams19-ops) |
 | **Aditya Panda** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/aditya-panda/) | [`@aditya-panda`](https://github.com/aditya-panda) |
 | **Lavanya Mathur** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/lavanya-mathur/) | [`@lavanya-mathur`](https://github.com/lavanya-mathur) |
 | **Bhumika** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/bhumika/) | [`@bhumika`](https://github.com/bhumika) |

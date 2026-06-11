@@ -1,6 +1,7 @@
 # 📄 Paper 5: Accurate Proteome-Wide Missense Variant Effect Prediction with AlphaMissense
 *   **Journal / Conference**: Science (2023)
 *   **DOI**: `10.1126/science.adg7492`
+    **Link**: [Nature Biotechnology](https://www.science.org/doi/10.1126/science.adg7492)
 
 ---
 

@@ -1,7 +1,7 @@
 # 📄 Paper 7: Artificial Intelligence in Variant Calling: A Review
 *   **Journal / Conference**: Journal of Big Data (2024)
 *   **DOI**: `10.1186/s40537-024-00947-8`
-
+    **Link**: [Nature Biotechnology]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12055765/)
 ---
 
 ## 🔬 Literature Review Table
